@@ -5,7 +5,7 @@ import com.zipcodewilmington.exceptions.InvalidPhoneNumberFormatException;
 /**
  * Created by leon on 5/10/17.
  */
-public final class PhoneNumber {
+public final class PhoneNumber { //container for String representation of a phone number
     private final String phoneNumberString;
 
     // default constructor is uncallable
